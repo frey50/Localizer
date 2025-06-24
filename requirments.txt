@@ -1,0 +1,5 @@
+transformers>=4.39.3
+sentencepiece
+bitsandbytes
+accelerate
+torch
