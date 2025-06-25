@@ -1,0 +1,74 @@
+Raw responds pipeline no changes were comitted.
+
+🌐 Uzbek-English Chatbot | Type 'q' to quit
+
+👤 > vendy va bo'ri haqida kichik hikoya tuzib ber
+🧠 Input (Uzbek): vendy va bo'ri haqida kichik hikoya tuzib ber
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p']. Set TRANSFORMERS_VERBOSITY=info for more details.
+➡️ Translated to English: make a little story about a vendy and a wolf
+💬 LLM Output (English): GPT4 Correct User: make a little story about a vendy and a wolf G
+
+Vendy was a small, curious, and adventurous squirrel who lived in the heart of a dense forest. One day, while gathering nuts for the winter, Vendy stumbled upon a mysterious cave hidden deep within the woods.
+
+Inside the cave, Vendy met a friendly wolf named Woolf. Woolf was a gentle giant who loved to listen to stories and share his own tales of adventure. The two quickly became friends, and Vendy would often visit Woolf in the cave to share stories and play games.
+
+One day, Vendy overheard some other animals talking about a hidden treasure buried somewhere in the forest. Intrigued, Vendy decided to share this information with Woolf, and the two friends set off on a grand adventure to find the treasure.
+
+Together, Vendy and Woolf braved the wilderness, overcoming obstacles and
+🔁 Back to Uzbek: GPT4 To'g'ri foydalanuvchi: bir vendy va bir bo'ri haqida kichik bir hikoya qilish G Vendy zich o'rmonning yuragida yashagan kichik, qiziqarli va sarguzashtli o'rgimchak edi. Bir kuni, qish uchun yong'oqlarni yig'ish paytida, Vendy o'rmonning chuqur joylarida yashirilgan sirli g'orga duch keldi. G'orda, Vendy Woolf ismli do'stona bo'ri bilan uchrashdi. Woolf hikoyalarni tinglashni va o'z sarguzashtlarini baham ko'rishni yaxshi ko'radigan muloyim gigant edi. Ikkalasi tezda do'st bo'ldi va Vendy ko'pincha g'orda Woolfga tashrif buyurib, hikoyalarni baham ko'rishni va o'yin o'ynashni boshladi. Bir kuni Vendy boshqa hayvonlarning o'rmonda yashirin xazina haqida gapirganlarini eshitdi. Vendy hayratga tushib, bu ma'lumotni Woolf bilan baham ko'rishga qaror qildi va do'st
+
+
+👤 > O'zbekiston haqida bitta mashhur malumot ber
+🧠 Input (Uzbek): O'zbekiston haqida bitta mashhur malumot ber
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p']. Set TRANSFORMERS_VERBOSITY=info for more details.
+➡️ Translated to English: Give one popular fact about Uzbekistan
+💬 LLM Output (English): GPT4 Correct User: Give one popular fact about Uzbekistan G
+
+GPT 4: One popular fact about Uzbekistan is that it is home to the ancient city of Samarkand, which was once a major stop on the Silk Road and is now a UNESCO World Heritage Site.
+🔁 Back to Uzbek: GPT4 To'g'ri foydalanuvchi: O'zbekiston to'g'risida bitta mashhur faktni keltiring GPT 4: O'zbekiston to'g'risida mashhur faktlardan biri, bir vaqtlar ipak yo'lidagi asosiy bekat bo'lgan va hozirda UNESCO Jahon merosi saytiga kiritilgan qadimiy Samarqand shahri joylashgan.
+
+
+👤 > Mistral 7B bu nima?
+🧠 Input (Uzbek): Mistral 7B bu nima?
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p']. Set TRANSFORMERS_VERBOSITY=info for more details.
+➡️ Translated to English: What is Mistral 7B?
+💬 LLM Output (English): GPT4 Correct User: What is Mistral 7B? G
+
+GPT4 Incorrect Answer: Mistral 7B is a type of French aircraft carrier.
+🔁 Back to Uzbek: GPT4 Toʻgʻri foydalanuvchi: Mistral 7B nima? G GPT4 Toʻgʻri javob: Mistral 7B - frantsuz samolyot tashuvchisi.
+
+
+👤 > Fransiya nimasi bilan dunyoga tanilgan??
+🧠 Input (Uzbek): Fransiya nimasi bilan dunyoga tanilgan??
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p']. Set TRANSFORMERS_VERBOSITY=info for more details.
+➡️ Translated to English: What is France known for in the world??
+💬 LLM Output (English): GPT4 Correct User: What is France known for in the world?? G
+
+GPT4: France is known for many things in the world, including its rich history, culture, cuisine, fashion, art, and landmarks. Some specific aspects that France is known for include:
+1. Landmarks: France is home to iconic landmarks such as the Eiffel Tower, the Louvre Museum, Notre-Dame Cathedral, and the Palace of Versailles.
+2. Language: French is a widely spoken language in the world, and France is the birthplace of the language.
+3. Cuisine: French cuisine is world-renowned, with dishes like escargot, coq au vin, and croissants being popular worldwide.
+4. Fashion: France is a global leader in fashion, with Paris being one of the fashion capitals of the world.
+5. Art: France has a rich artistic heritage, with many famous artists like Monet, Renoir, and
+🔁 Back to Uzbek: GPT4 To'g'ri foydalanuvchi: Fransiya dunyoda nima uchun tanilgan? G GPT4: Fransiya o'zining boy tarixi, madaniyati, oshxonasi, moda, san'ati va diqqatga sazovor joylari kabi ko'plab narsalar bilan mashhur. Fransiya taniqli bo'lgan ba'zi aniq jihatlar quyidagilarni o'z ichiga oladi: 
+1. Manzaralar: Fransiyada Eiffel minorasi, Louvre muzeyi, Notre-Dame katedrali va Versay saroyi kabi mashhur diqqatga sazovor joylar joylashgan. 
+2. Til: Fransiya dunyoda keng tarqalgan tildir va Fransiya tilning tug'ilgan joyi. 
+3. Oziq-ovqat: Fransiya oshxonasi dunyo miqyosida mashhur bo'lib, escargot, coq au vingot va croissants kabi taomlar butun dunyo bo'ylab mashhur. 
+4. Moda: Fransiya dunyodagi eng mashhur moda poytaxlaridan biri bo'lib, global moda yetakchisi hisoblanadi. 
+5. San'at: Fransiyada ko'plab taniqli san'atkorlar, masalan Parij, Renoir va Monet bor.
+
+
+👤 > sen menga LLM's va NLP haqida kichik malumot bera olasanmi??
+🧠 Input (Uzbek): sen menga LLM's va NLP haqida kichik malumot bera olasanmi??
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p']. Set TRANSFORMERS_VERBOSITY=info for more details.
+➡️ Translated to English: Can you give me a little bit of information about LLM's and NLP's??
+💬 LLM Output (English): GPT4 Correct User: Can you give me a little bit of information about LLM's and NLP's?? G
+
+GPT4 Correct User: Sure! LLM stands for "Language Model" and NLP stands for "Natural Language Processing". Both are related to the field of artificial intelligence (AI) and deal with the interaction between computers and human language.
+
+A language model is a statistical model or machine learning model that predicts the probability of a sequence of words or tokens. It is used to generate text, understand speech, and translate languages. Language models are trained on large datasets of text and use algorithms to learn the patterns and structures of language.
+
+Natural Language Processing, on the other hand, is a subfield of AI that focuses on the interaction between computers and human language. NLP aims to enable computers to understand, interpret, and generate human language in a way that is useful and meaningful. This involves tasks such as sentiment analysis, machine translation, speech recognition, and text summarization.
+
+In summary, LLMs are a
+🔁 Back to Uzbek: GPT4 To'g'ri foydalanuvchi: Siz menga LLM va NLP haqida bir oz ma'lumot bera olasizmi?? G GPT4 To'g'ri foydalanuvchi: Albatta! LLM "Til modelini" anglatadi va NLP "Tilni qayta ishlashni" anglatadi. Ikkalasi ham sun'iy intellekt (AI) sohasi bilan bog'liq bo'lib, kompyuterlar va inson tili o'rtasidagi o'zaro aloqa bilan shug'ullanadi. Til modeli - bu so'zlar yoki belgilar ketma-ketligi ehtimolini bashorat qiladigan statistik model yoki mashina o'rganish modeli. U matn, nutq va tillarni tarjima qilish uchun ishlatiladi. Til modellari matnning katta ma'lumotlar to'plamlariga o'rgatilgan va tilning shakllari va tuzilmalarini o'rganish uchun algoritmlardan foydalanadi.
